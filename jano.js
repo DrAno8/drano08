@@ -2565,7 +2565,7 @@ jano92.login("");
 jano93.login("");
 jano94.login("");
 jano95.login("");
-jano96.login("");
+jano96.login("ODgzNDk0MDk2OTE0NzYzODQ2.YTKwHg.qiQI_j89iUgJbwStDX6RmnU1IZk");
 jano97.login("");
 jano98.login("");
 jano99.login("");
